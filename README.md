@@ -14,7 +14,7 @@ Le questionnaire est constitué de :
 
 
 
-* 5 domaines (**A**gréabilité, **C**onscienciosité,** E**xtraversion, **N**évrotisme, **O**uverture)
+* 5 domaines (**A**gréabilité, **C**onscienciosité, **E**xtraversion, **N**évrotisme, **O**uverture)
 * 30 facettes, soit 6 par domaine (A1, A2, A3, A4, A5, A6, C1 … O4, O5, O6)
 * 300 questions/items, soit 10 par facette (A1.0, A1.1, …O6.7, O6.8, O6.9)
 
@@ -28,13 +28,13 @@ Sur la page suivante vous trouverez des questions pour guider le début du raiso
 
 Bon courage !
 
-
+---
 
 1. **Raisonnement général**
-1. Combien de comparaisons sont réalisées au sein d’un quadruplet ? Combien de comparaisons sont donc réalisées au sein de 75 quadruplets ?
-2. Combien de comparaisons sont nécessaires au total pour que chaque facette soit comparée une fois à chacune des autres ? Ce résultat est-il plus petit que le nombre de comparaisons réalisées au sein de 75 quadruplets ? Est-ce un problème ou un avantage ?
-3. De combien est la différence entre le nombre de comparaisons réalisées et le nombre de comparaisons nécessaires ? Pensez-vous qu’il soit possible de remplir les objectifs idéaux de l’équipe Science ? Si non, quel objectif pensez-vous revoir à la baisse en priorité ?
+  - Combien de comparaisons sont réalisées au sein d’un quadruplet ? Combien de comparaisons sont donc réalisées au sein de 75 quadruplets ?
+  - Combien de comparaisons sont nécessaires au total pour que chaque facette soit comparée une fois à chacune des autres ? Ce résultat est-il plus petit que le nombre de comparaisons réalisées au sein de 75 quadruplets ? Est-ce un problème ou un avantage ?
+  - De combien est la différence entre le nombre de comparaisons réalisées et le nombre de comparaisons nécessaires ? Pensez-vous qu’il soit possible de remplir les objectifs idéaux de l’équipe Science ? Si non, quel objectif pensez-vous revoir à la baisse en priorité ?
 2. **(Optionnel) Cas des triplets et des paires**
-1. Adaptez votre algorithme au cas des triplets : 100 triplets à réaliser. 
-2. Adaptez votre algorithme au cas des doublets : 150 doublets à réaliser. 
-3. Quelle est la conséquence en termes de comparaisons ? Pensez-vous que l’équipe Science ait bien fait de choisir des quadruplets ? 
+  - Adaptez votre algorithme au cas des triplets : 100 triplets à réaliser. 
+  - Adaptez votre algorithme au cas des doublets : 150 doublets à réaliser. 
+  - Quelle est la conséquence en termes de comparaisons ? Pensez-vous que l’équipe Science ait bien fait de choisir des quadruplets ? 
